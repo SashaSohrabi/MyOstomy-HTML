@@ -1,2 +1,7 @@
-
-
+.oc {
+  .summary-table {
+    &.no-border {
+      border-bottom: unset;
+    }
+  }
+}
