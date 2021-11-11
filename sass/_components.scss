@@ -134,6 +134,7 @@
 
   &__section {
     width: 100%;
-    margin-bottom: 50vh;
+    page-break-after: always;
+    margin-bottom: 20vh;
   }
 }
