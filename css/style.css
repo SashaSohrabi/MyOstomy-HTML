@@ -127,5 +127,5 @@ body {
       color: #2e3233; }
   .oc__section {
     width: 100%;
-    page-break-after: always;
+    break-after: always;
     margin-bottom: 20vh; }
